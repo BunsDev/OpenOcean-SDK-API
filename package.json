@@ -1,14 +1,14 @@
 {
-  "name": "@openocean.finance/openocean-sdk",
-  "version": "0.1.56",
-  "description": "Openocean sdk",
+  "name": "soulswap-open-sdk",
+  "version": "0.0.0",
+  "description": "SoulSwap Open SDK",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
     "buildWeb": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "openocean",
+  "author": "0xBuns",
   "license": "ISC",
   "repository": {
     "type": "git",
